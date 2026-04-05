@@ -61,7 +61,7 @@ I build production-grade systems end-to-end — from containerised microservice 
 |---|---|---|
 | [TeamPulse](https://github.com/Paritoshcodes/TeamPulse) | Real-time team collaboration platform with workspaces, channels, DMs, Socket.IO messaging, JWT auth, RBAC, and background schedulers | React, Node.js, MongoDB, Socket.IO, JWT |
 | MedTrack EMR | Containerised electronic medical records system with 4 microservices, 20+ REST endpoints, PostgreSQL schema-per-tenant, and 5 KPI dashboards | Docker, Node.js, PostgreSQL, React |
-| [Wafer-Fault-Detection](https://github.com/Paritoshcodes/Wafer-Fault-Detection) | ML pipeline for semiconductor wafer fault classification | Python, Scikit-learn, Pandas |
+| [Vigil](https://github.com/Paritoshcodes/Vigil) | AI-based multi-hazard disaster prediction and early warning platform for real-time monitoring, explainable forecasts, and operational response. |
 
 ---
 
