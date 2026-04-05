@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Paritosh Singh 👋</h1>
 
 <p align="center">
-  Final-year B.Tech student @ SRM Institute of Science and Technology &nbsp;·&nbsp; CGPA 8.69<br>
+  Third-year B.Tech student @ SRM Institute of Science and Technology &nbsp;·&nbsp; CGPA 8.69<br>
   Full-Stack Engineer &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; DevOps<br>
   Chennai, India &nbsp;·&nbsp; Open to remote &amp; on-site internships across India
 </p>
