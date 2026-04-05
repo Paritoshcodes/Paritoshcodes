@@ -62,7 +62,7 @@ I build production-grade systems end-to-end — from containerised microservice 
 | [TeamPulse](https://github.com/Paritoshcodes/TeamPulse) | Real-time team collaboration platform with workspaces, channels, DMs, Socket.IO messaging, JWT auth, RBAC, and background schedulers | React, Node.js, MongoDB, Socket.IO, JWT |
 | [MedTrack EMR](https://hub.docker.com/repository/docker/paritosh018/medtrack-emr/general) | Containerised electronic medical records system with 4 microservices, 20+ REST endpoints, PostgreSQL schema-per-tenant, and 5 KPI dashboards | Docker, Node.js, PostgreSQL, React |
 | [Vigil](https://github.com/Paritoshcodes/Vigil) | AI-based multi-hazard disaster prediction and early warning platform for real-time monitoring, explainable forecasts, and operational response. | React 18, TypeScript, Vite, Tailwind, FastAPI, PostgreSQL, Python |
-| [Fake News Radar]([https://github.com/Paritoshcodes/Vigil](https://fakenewsdetectorxparitoshxsingh.streamlit.app)) |A polished Streamlit app for fake news classification with a single-page tabbed UX, URL content extraction, and profile-based model training on the WELFake dataset. | Python, Streamlit, scikit-learn, pandas, numpy, matplotlib, BeautifulSoup + requests |
+| [Fake News Radar](https://fakenewsdetectorxparitoshxsingh.streamlit.app) |A polished Streamlit app for fake news classification with a single-page tabbed UX, URL content extraction, and profile-based model training on the WELFake dataset. | Python, Streamlit, scikit-learn, pandas, numpy, matplotlib, BeautifulSoup + requests |
 ---
 
 ### Connect
